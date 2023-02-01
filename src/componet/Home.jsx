@@ -269,7 +269,7 @@ text-align: center;
 h3{
     font-size: 30px;
     @media (max-width: 770px) {
-        font-size: 24px;  
+        font-size: 27px;  
     }
 }
 `;
